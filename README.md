@@ -8,7 +8,8 @@ Bu proje, Flutter ile geliştirilen ve bir podcast API'sinden veri çeken bir mo
 
 📺 Tanıtım videosu veya ekran görüntüsü eklemek isterseniz:
 
-👉 [YouTube'da İzle (Shorts)](https://www.youtube.com/shorts/gpcSQKtcj-4)
+[![YouTube Video](https://img.youtube.com/vi/gpcSQKtcj-4/0.jpg)](https://www.youtube.com/shorts/gpcSQKtcj-4)
+
 
 ---
 
