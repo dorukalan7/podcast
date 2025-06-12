@@ -1,26 +1,31 @@
-# 🎧 Podcast App - Flutter ile Geliştirilmiş Dinleme Uygulaması
 
-Bu proje, Flutter ile geliştirilen ve bir podcast API'sinden veri çeken bir mobil uygulamadır. Kullanıcılar; bölümleri dinleyebilir, favorilerine ekleyebilir ve geçmiş yayınlara göz atabilir. Uygulama, modern tasarımı ve güçlü altyapısı ile rahat ve keyifli bir deneyim sunar.
+Podcast App - Flutter-Based Listening Application
 
----
 
-## 🎥 Demo
 
-📺 Tanıtım videosu veya ekran görüntüsü eklemek isterseniz:
+This project is a mobile application developed with Flutter that fetches data from a podcast API. Users can listen to episodes, add them to favorites, and browse past broadcasts. The app offers a comfortable and enjoyable experience with its modern design and robust infrastructure.
+
+🎥 Demo
+📺 If you want to include a promotional video or screenshot:
 
 [![YouTube Video](https://img.youtube.com/vi/gpcSQKtcj-4/0.jpg)](https://www.youtube.com/shorts/gpcSQKtcj-4)
 
 
 ---
 
-## 🚀 Özellikler
 
-- 🔊 **Canlı Podcast Verisi** – Uygulama, bir podcast API’sinden bölümleri ve yayın bilgilerini dinamik olarak çeker.
-- ⭐ **Favorilere Ekleme** – Kullanıcılar beğendikleri bölümleri favorilerine ekleyebilir.
-- 📜 **Dinleme Geçmişi** – Kullanıcı daha önce dinlediği bölümleri görebilir.
-- 🎨 **Modern Arayüz** – Estetik ve sezgisel UI ile kullanıcı dostu deneyim.
-- 💾 **SharedPreferences ile Lokal Veri Saklama** – Favoriler ve geçmiş dinlemeler cihazda tutulur.
-- 🧩 **Enum Kullanımı** – Sabitler, kategori türleri ve durum yönetimi için enum yapıları kullanılmıştır.
+🚀 Features
+🔊 Live Podcast Data – The app dynamically fetches episodes and broadcast details from a podcast API.
+
+⭐ Add to Favorites – Users can mark their favorite episodes.
+
+📜 Listening History – Users can view previously played episodes.
+
+🎨 Modern Interface – Aesthetic and intuitive UI for a user-friendly experience.
+
+💾 Local Data Storage with SharedPreferences – Favorites and listening history are stored locally on the device.
+
+🧩 Enum Usage – Enums are used for constants, category types, and state management.
 
 ---
 
