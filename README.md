@@ -1,16 +1,25 @@
-# podcast
+# 🎧 Podcast App - Flutter ile Geliştirilmiş Dinleme Uygulaması
 
-A new Flutter project.
+Bu proje, Flutter ile geliştirilen ve bir podcast API'sinden veri çeken bir mobil uygulamadır. Kullanıcılar; bölümleri dinleyebilir, favorilerine ekleyebilir ve geçmiş yayınlara göz atabilir. Uygulama, modern tasarımı ve güçlü altyapısı ile rahat ve keyifli bir deneyim sunar.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎥 Demo
 
-A few resources to get you started if this is your first Flutter project:
+📺 Tanıtım videosu veya ekran görüntüsü eklemek isterseniz:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+👉 [YouTube'da İzle (Shorts)](https://www.youtube.com/shorts/gpcSQKtcj-4)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Özellikler
+
+- 🔊 **Canlı Podcast Verisi** – Uygulama, bir podcast API’sinden bölümleri ve yayın bilgilerini dinamik olarak çeker.
+- ⭐ **Favorilere Ekleme** – Kullanıcılar beğendikleri bölümleri favorilerine ekleyebilir.
+- 📜 **Dinleme Geçmişi** – Kullanıcı daha önce dinlediği bölümleri görebilir.
+- 🎨 **Modern Arayüz** – Estetik ve sezgisel UI ile kullanıcı dostu deneyim.
+- 💾 **SharedPreferences ile Lokal Veri Saklama** – Favoriler ve geçmiş dinlemeler cihazda tutulur.
+- 🧩 **Enum Kullanımı** – Sabitler, kategori türleri ve durum yönetimi için enum yapıları kullanılmıştır.
+
+---
+
